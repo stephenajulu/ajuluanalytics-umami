@@ -29,12 +29,6 @@
       "value": "Tots"
     }
   ],
-  "label.all-events": [
-    {
-      "type": 0,
-      "value": "Tots els esdeveniments"
-    }
-  ],
   "label.all-time": [
     {
       "type": 0,
@@ -247,6 +241,12 @@
       "value": "Contrasenya nova"
     }
   ],
+  "label.none": [
+    {
+      "type": 0,
+      "value": "None"
+    }
+  ],
   "label.owner": [
     {
       "type": 0,
@@ -397,6 +397,12 @@
       "value": "Llocs web"
     }
   ],
+  "label.yesterday": [
+    {
+      "type": 0,
+      "value": "Ahir"
+    }
+  ],
   "message.active-users": [
     {
       "type": 1,
@@ -469,6 +475,12 @@
     {
       "type": 0,
       "value": "També s'esborraran totes les dades relacionades."
+    }
+  ],
+  "message.edit-dashboard": [
+    {
+      "type": 0,
+      "value": "Edit dashboard"
     }
   ],
   "message.failure": [
@@ -731,12 +743,6 @@
       "value": "Combinat"
     }
   ],
-  "metrics.filter.domain-only": [
-    {
-      "type": 0,
-      "value": "Només domini"
-    }
-  ],
   "metrics.filter.raw": [
     {
       "type": 0,
@@ -767,10 +773,22 @@
       "value": "Pàgines"
     }
   ],
+  "metrics.query-parameters": [
+    {
+      "type": 0,
+      "value": "Query parameters"
+    }
+  ],
   "metrics.referrers": [
     {
       "type": 0,
       "value": "Referents"
+    }
+  ],
+  "metrics.screens": [
+    {
+      "type": 0,
+      "value": "Screens"
     }
   ],
   "metrics.unique-visitors": [

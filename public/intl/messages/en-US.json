@@ -11,6 +11,18 @@
       "value": "Add account"
     }
   ],
+  "label.add-column": [
+    {
+      "type": 0,
+      "value": "Add column"
+    }
+  ],
+  "label.add-filter": [
+    {
+      "type": 0,
+      "value": "Add filter"
+    }
+  ],
   "label.add-website": [
     {
       "type": 0,
@@ -27,12 +39,6 @@
     {
       "type": 0,
       "value": "All"
-    }
-  ],
-  "label.all-events": [
-    {
-      "type": 0,
-      "value": "All events"
     }
   ],
   "label.all-time": [
@@ -161,6 +167,18 @@
       "value": "Enable share URL"
     }
   ],
+  "label.event-data": [
+    {
+      "type": 0,
+      "value": "Event Data"
+    }
+  ],
+  "label.field-name": [
+    {
+      "type": 0,
+      "value": "Field Name"
+    }
+  ],
   "label.invalid": [
     {
       "type": 0,
@@ -247,6 +265,12 @@
       "value": "New password"
     }
   ],
+  "label.none": [
+    {
+      "type": 0,
+      "value": "None"
+    }
+  ],
   "label.owner": [
     {
       "type": 0,
@@ -313,6 +337,12 @@
       "value": "Save"
     }
   ],
+  "label.search": [
+    {
+      "type": 0,
+      "value": "Search"
+    }
+  ],
   "label.settings": [
     {
       "type": 0,
@@ -373,6 +403,12 @@
       "value": "Tracking code"
     }
   ],
+  "label.type": [
+    {
+      "type": 0,
+      "value": "Type"
+    }
+  ],
   "label.unknown": [
     {
       "type": 0,
@@ -385,6 +421,12 @@
       "value": "Username"
     }
   ],
+  "label.value": [
+    {
+      "type": 0,
+      "value": "Value"
+    }
+  ],
   "label.view-details": [
     {
       "type": 0,
@@ -395,6 +437,12 @@
     {
       "type": 0,
       "value": "Websites"
+    }
+  ],
+  "label.yesterday": [
+    {
+      "type": 0,
+      "value": "Yesterday"
     }
   ],
   "message.active-users": [
@@ -469,6 +517,12 @@
     {
       "type": 0,
       "value": "All associated data will be deleted as well."
+    }
+  ],
+  "message.edit-dashboard": [
+    {
+      "type": 0,
+      "value": "Edit dashboard"
     }
   ],
   "message.failure": [
@@ -731,12 +785,6 @@
       "value": "Combined"
     }
   ],
-  "metrics.filter.domain-only": [
-    {
-      "type": 0,
-      "value": "Domain only"
-    }
-  ],
   "metrics.filter.raw": [
     {
       "type": 0,
@@ -767,10 +815,22 @@
       "value": "Pages"
     }
   ],
+  "metrics.query-parameters": [
+    {
+      "type": 0,
+      "value": "Query parameters"
+    }
+  ],
   "metrics.referrers": [
     {
       "type": 0,
       "value": "Referrers"
+    }
+  ],
+  "metrics.screens": [
+    {
+      "type": 0,
+      "value": "Screens"
     }
   ],
   "metrics.unique-visitors": [

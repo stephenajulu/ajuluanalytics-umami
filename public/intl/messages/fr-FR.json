@@ -29,22 +29,16 @@
       "value": "Tout"
     }
   ],
-  "label.all-events": [
-    {
-      "type": 0,
-      "value": "Tous les événements"
-    }
-  ],
   "label.all-time": [
     {
       "type": 0,
-      "value": "Toutes périodes"
+      "value": "Toutes les données"
     }
   ],
   "label.all-websites": [
     {
       "type": 0,
-      "value": "Tous les sites web"
+      "value": "Tous les sites"
     }
   ],
   "label.back": [
@@ -86,7 +80,7 @@
   "label.custom-range": [
     {
       "type": 0,
-      "value": "Intervalle personnalisé"
+      "value": "Période personnalisée"
     }
   ],
   "label.dashboard": [
@@ -98,13 +92,13 @@
   "label.date-range": [
     {
       "type": 0,
-      "value": "Intervalle"
+      "value": "Période"
     }
   ],
   "label.default-date-range": [
     {
       "type": 0,
-      "value": "Intervalle par défaut"
+      "value": "Période par défaut"
     }
   ],
   "label.delete": [
@@ -158,7 +152,7 @@
   "label.enable-share-url": [
     {
       "type": 0,
-      "value": "Activer le partage d'URL"
+      "value": "Activer l'URL de partage"
     }
   ],
   "label.invalid": [
@@ -176,7 +170,7 @@
   "label.language": [
     {
       "type": 0,
-      "value": "Langage"
+      "value": "Langue"
     }
   ],
   "label.last-days": [
@@ -237,6 +231,12 @@
     {
       "type": 0,
       "value": "Nouveau mot de passe"
+    }
+  ],
+  "label.none": [
+    {
+      "type": 0,
+      "value": "Aucun·e"
     }
   ],
   "label.owner": [
@@ -332,7 +332,7 @@
   "label.this-month": [
     {
       "type": 0,
-      "value": "Ce mois ci"
+      "value": "Ce mois"
     }
   ],
   "label.this-week": [
@@ -387,6 +387,12 @@
     {
       "type": 0,
       "value": "Sites"
+    }
+  ],
+  "label.yesterday": [
+    {
+      "type": 0,
+      "value": "Hier"
     }
   ],
   "message.active-users": [
@@ -444,7 +450,7 @@
   "message.confirm-reset": [
     {
       "type": 0,
-      "value": "Êtes-vous sûr de vouloir réinistialiser les statistiques de "
+      "value": "Êtes-vous sûr de vouloir réinitialiser les statistiques de "
     },
     {
       "type": 1,
@@ -467,6 +473,12 @@
       "value": "Toutes les données associées seront également supprimées."
     }
   ],
+  "message.edit-dashboard": [
+    {
+      "type": 0,
+      "value": "Modifier le tableau de bord"
+    }
+  ],
   "message.failure": [
     {
       "type": 0,
@@ -476,13 +488,13 @@
   "message.get-share-url": [
     {
       "type": 0,
-      "value": "Obtenez l'URL de partage"
+      "value": "Obtenir l'URL de partage"
     }
   ],
   "message.get-tracking-code": [
     {
       "type": 0,
-      "value": "Obtenez le code de suivi"
+      "value": "Obtenir le code de suivi"
     }
   ],
   "message.go-to-settings": [
@@ -494,7 +506,7 @@
   "message.incorrect-username-password": [
     {
       "type": 0,
-      "value": "nom d'utilisateurs/mot de passe incorrect."
+      "value": "Nom d'utilisateur/Mot de passe incorrect."
     }
   ],
   "message.log.visitor": [
@@ -554,7 +566,7 @@
   "message.no-websites-configured": [
     {
       "type": 0,
-      "value": "Vous n'avez configuré aucun site Web."
+      "value": "Vous n'avez configuré aucun site."
     }
   ],
   "message.page-not-found": [
@@ -576,7 +588,7 @@
   "message.reset-warning": [
     {
       "type": 0,
-      "value": "Toutes les statistiques pour ce site seront supprimés, mais votre code de suivi restera intact."
+      "value": "Toutes les statistiques pour ce site seront supprimées, mais votre code de suivi restera intact."
     }
   ],
   "message.save-success": [
@@ -602,7 +614,7 @@
   "message.toggle-charts": [
     {
       "type": 0,
-      "value": "Changer les graphiques"
+      "value": "Afficher/Masquer les graphiques"
     }
   ],
   "message.track-stats": [
@@ -624,7 +636,7 @@
     },
     {
       "type": 0,
-      "value": " de votre site Web."
+      "value": " de votre site."
     }
   ],
   "message.type-delete": [
@@ -727,22 +739,16 @@
       "value": "Combiné"
     }
   ],
-  "metrics.filter.domain-only": [
-    {
-      "type": 0,
-      "value": "Domaine uniquement"
-    }
-  ],
   "metrics.filter.raw": [
     {
       "type": 0,
-      "value": "Brute"
+      "value": "Brut"
     }
   ],
   "metrics.languages": [
     {
       "type": 0,
-      "value": "Langages"
+      "value": "Langues"
     }
   ],
   "metrics.operating-systems": [
@@ -763,10 +769,22 @@
       "value": "Pages"
     }
   ],
+  "metrics.query-parameters": [
+    {
+      "type": 0,
+      "value": "Paramètres d'URL"
+    }
+  ],
   "metrics.referrers": [
     {
       "type": 0,
-      "value": "URL Référentes"
+      "value": "Sources"
+    }
+  ],
+  "metrics.screens": [
+    {
+      "type": 0,
+      "value": "Résolutions d'écran"
     }
   ],
   "metrics.unique-visitors": [
